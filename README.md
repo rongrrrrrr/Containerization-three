@@ -24,4 +24,3 @@ This file lists the necessary Python packages, such as `flask`, `scikit-learn`, 
   "input": {"W": 1.0, "X": 20},
   "predicted_engagement_score": 117.16
 }
-##### curl http://localhost:5000/estimate_ate
