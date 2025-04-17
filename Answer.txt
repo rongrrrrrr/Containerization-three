@@ -1,3 +1,4 @@
+Brief explanation of each component is in README file. 
 Question 1B
 Estimated ATE (τ̂): -9.1057
 P-value: 0.0004
