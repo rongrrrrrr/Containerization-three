@@ -1,0 +1,12 @@
+Question 1B
+Estimated ATE (τ̂): -9.1057
+P-value: 0.0004
+Estimated ATE (τ̂)= -9.11: This means that after controlling for the sustainability spending (X), the treatment group has on average 9.11 points lower engagement score 
+compared to the control group. The observed effect is statistically ignificant (p = 0.0004), exceeding the conventional threshold of α = 0.05
+
+Question 1C
+Assumption: Ignorability is satisfied, which means the decision to participate in the carbon offset program shouldn’t depend
+on things that also affect annual sustainability spending (like profit, industry, or size). If participation is random or unrelated to those other factors, then we can trust the results.
+
+Question 2C
+Result:117.16
