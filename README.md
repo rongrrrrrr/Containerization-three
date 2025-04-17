@@ -15,13 +15,13 @@ This file lists the necessary Python packages, such as `flask`, `scikit-learn`, 
 
 ### 🚀 How to Run with Docker
 #### 1.docker build -t esg-api .
-#### 2.docker run -p 5050:5050 esg-api
+#### 2.docker run -p 5000:5000 esg-api
 #### 3.Then, test the API:
-##### For Q1: curl http://localhost:5050/estimate_ate
+##### For Q1: curl http://localhost:5000/estimate_ate
 ##### For Q2: curl "http://localhost:5000/predict?W=1&X=20"
 ✅ Example Response:
 {
   "input": {"W": 1.0, "X": 20},
   "predicted_engagement_score": 117.16
 }
-##### curl http://localhost:5050/estimate_ate
+##### curl http://localhost:5000/estimate_ate
